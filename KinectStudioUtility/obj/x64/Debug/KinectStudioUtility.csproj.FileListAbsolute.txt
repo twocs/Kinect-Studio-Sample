@@ -1,0 +1,15 @@
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\bin\x64\Debug\KinectStudioUtility.dll
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\bin\x64\Debug\KinectStudioUtility.pdb
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\bin\x64\Debug\Microsoft.Xbox.Tools.Shared.dll
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\bin\x64\Debug\Microsoft.Xbox.Tools.Shared.pdb
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\obj\x64\Debug\KinectStudioUtility.csprojResolveAssemblyReference.cache
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\obj\x64\Debug\SpinControl.g.cs
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\obj\x64\Debug\KinectStudioUtility_MarkupCompile.cache
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\obj\x64\Debug\KinectStudioUtility_MarkupCompile.lref
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\obj\x64\Debug\SpinControl.baml
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\obj\x64\Debug\KinectStudioUtility.g.resources
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\obj\x64\Debug\KinectStudioUtility.dll
+G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioUtility\obj\x64\Debug\KinectStudioUtility.pdb

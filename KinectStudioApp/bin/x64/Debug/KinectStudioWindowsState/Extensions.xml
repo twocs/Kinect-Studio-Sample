@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Extensions>
+  <Extension AssemblyPath="G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioApp\bin\x64\Debug\KinectStudioApp.exe" TimeStamp="130962796540912406">
+    <ViewFactories>
+      <ViewFactory RegisteredName="TargetMonitorableStreamsView" DisplayName="Monitor" IsSingleInstance="false" IsSingleInstancePerLayout="true" IsInternalOnly="false" DefaultShortcutKey="" TypeName="KinectStudioApp.KStudioViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ViewFactory RegisteredName="TargetRecordableStreamsView" DisplayName="Record" IsSingleInstance="false" IsSingleInstancePerLayout="true" IsInternalOnly="false" DefaultShortcutKey="" TypeName="KinectStudioApp.KStudioViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ViewFactory RegisteredName="PlaybackableStreamsView" DisplayName="Playback" IsSingleInstance="false" IsSingleInstancePerLayout="true" IsInternalOnly="false" DefaultShortcutKey="" TypeName="KinectStudioApp.KStudioViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ViewFactory RegisteredName="InspectionImage2DVisualizationView" DisplayName="Playback 2D View" IsSingleInstance="false" IsSingleInstancePerLayout="false" IsInternalOnly="false" DefaultShortcutKey="" TypeName="KinectStudioApp.KStudioViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ViewFactory RegisteredName="Image2DPropertyView" DisplayName="2D Properties" IsSingleInstance="false" IsSingleInstancePerLayout="false" IsInternalOnly="false" DefaultShortcutKey="" TypeName="KinectStudioApp.KStudioViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ViewFactory RegisteredName="Image2DVisualizationView" DisplayName="Monitor 2D View" IsSingleInstance="false" IsSingleInstancePerLayout="false" IsInternalOnly="false" DefaultShortcutKey="" TypeName="KinectStudioApp.KStudioViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ViewFactory RegisteredName="TargetConnectionView" DisplayName="Connection" IsSingleInstance="false" IsSingleInstancePerLayout="true" IsInternalOnly="false" DefaultShortcutKey="" TypeName="KinectStudioApp.KStudioViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ViewFactory RegisteredName="MetadataView" DisplayName="Metadata" IsSingleInstance="false" IsSingleInstancePerLayout="false" IsInternalOnly="false" DefaultShortcutKey="" TypeName="KinectStudioApp.KStudioViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ViewFactory RegisteredName="InspectionImage3DVisualizationView" DisplayName="Playback 3D View" IsSingleInstance="false" IsSingleInstancePerLayout="false" IsInternalOnly="false" DefaultShortcutKey="" TypeName="KinectStudioApp.KStudioViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ViewFactory RegisteredName="Image3DVisualizationView" DisplayName="Monitor 3D View" IsSingleInstance="false" IsSingleInstancePerLayout="false" IsInternalOnly="false" DefaultShortcutKey="" TypeName="KinectStudioApp.KStudioViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    </ViewFactories>
+    <DocumentFactories />
+    <ServiceFactories>
+      <ServiceFactory ServiceTypeName="KinectStudioApp.IFileSettingsService, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FactoryTypeName="KinectStudioApp.FileSettingsServiceFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ServiceFactory ServiceTypeName="KinectStudioApp.IKStudioService, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FactoryTypeName="KinectStudioApp.KStudioServicesFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ServiceFactory ServiceTypeName="KinectStudioApp.IMetadataViewService, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FactoryTypeName="KinectStudioApp.MetadataViewFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ServiceFactory ServiceTypeName="KinectStudioApp.IMostRecentlyUsedService, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FactoryTypeName="KinectStudioApp.MostRecentlyUsedServiceFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ServiceFactory ServiceTypeName="KinectStudioPlugin.IPluginService, KinectStudioPlugin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FactoryTypeName="KinectStudioApp.PluginServiceFactory, KinectStudioApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    </ServiceFactories>
+  </Extension>
+  <Extension AssemblyPath="G:\Dropbox\programming\github\Kinect-Studio-Sample\KinectStudioApp\bin\x64\Debug\Microsoft.Xbox.Tools.Shared.dll" TimeStamp="130962790964608024">
+    <ViewFactories>
+      <ViewFactory RegisteredName="Microsoft.Xbox.Tools.Shared.ThemeEditorView" DisplayName="Theme Editor" IsSingleInstance="false" IsSingleInstancePerLayout="false" IsInternalOnly="true" DefaultShortcutKey="" TypeName="Microsoft.Xbox.Tools.Shared.ThemeEditorViewFactory, Microsoft.Xbox.Tools.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ViewFactory RegisteredName="Microsoft.Xbox.Tools.Shared.OutputView" DisplayName="Output" IsSingleInstance="false" IsSingleInstancePerLayout="false" IsInternalOnly="false" DefaultShortcutKey="" TypeName="Microsoft.Xbox.Tools.Shared.OutputViewFactory, Microsoft.Xbox.Tools.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    </ViewFactories>
+    <DocumentFactories />
+    <ServiceFactories>
+      <ServiceFactory ServiceTypeName="Microsoft.Xbox.Tools.Shared.ViewManager, Microsoft.Xbox.Tools.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FactoryTypeName="Microsoft.Xbox.Tools.Shared.CoreServicesFactory, Microsoft.Xbox.Tools.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ServiceFactory ServiceTypeName="Microsoft.Xbox.Tools.Shared.DocumentManager, Microsoft.Xbox.Tools.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FactoryTypeName="Microsoft.Xbox.Tools.Shared.CoreServicesFactory, Microsoft.Xbox.Tools.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ServiceFactory ServiceTypeName="Microsoft.Xbox.Tools.Shared.RecentDocumentService, Microsoft.Xbox.Tools.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FactoryTypeName="Microsoft.Xbox.Tools.Shared.CoreServicesFactory, Microsoft.Xbox.Tools.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+      <ServiceFactory ServiceTypeName="Microsoft.Xbox.Tools.Shared.ILoggingService, Microsoft.Xbox.Tools.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FactoryTypeName="Microsoft.Xbox.Tools.Shared.CoreServicesFactory, Microsoft.Xbox.Tools.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    </ServiceFactories>
+  </Extension>
+</Extensions>

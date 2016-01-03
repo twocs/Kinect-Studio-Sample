@@ -38,32 +38,32 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="KinectManaged">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KinectManaged.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KinectManaged.dll</HintPath>
     </Reference>
     <Reference Include="KinectViz">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KinectViz.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KinectViz.dll</HintPath>
     </Reference>
     <Reference Include="KSRenderCore">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KSRenderCore.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KSRenderCore.dll</HintPath>
     </Reference>
     <Reference Include="KSSManaged">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KSSManaged.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KSSManaged.dll</HintPath>
     </Reference>
     <Reference Include="KStudioBridge">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KStudioBridge.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\KStudioBridge.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Kinect.Tools, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Redist\KinectTools\x64\Microsoft.Kinect.Tools.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Microsoft SDKs\Kinect\v2.0_1409\Redist\KinectTools\x64\Microsoft.Kinect.Tools.dll</HintPath>
     </Reference>
     <Reference Include="RawIRCodecManaged">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\RawIRCodecManaged.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\RawIRCodecManaged.dll</HintPath>
     </Reference>
     <Reference Include="RawIR_K4W">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\RawIR_K4W.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\RawIR_K4W.dll</HintPath>
     </Reference>
     <Reference Include="RenderControlLibrary">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\RenderControlLibrary.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Microsoft SDKs\Kinect\v2.0_1409\Tools\KinectStudio\RenderControlLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
